@@ -77,6 +77,3 @@ def show_image_analysis(image_path, analysis):
     a.text(0,0.4, details, fontsize=12)
     plt.axis('off')
     plt.show()
-def suma():
-    print("hola")
-
